@@ -1,7 +1,7 @@
 package Sorting;
 
 
-public class Theards extends Thread {  
+public class TheardsOutputVary extends Thread {  
  int code=7;
 	
 	public void run(){
